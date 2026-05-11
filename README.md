@@ -41,6 +41,9 @@ AQI-Data-Science-Project/
 
 Visualization:
  AQI distribution: <img width="712" height="540" alt="image" src="https://github.com/user-attachments/assets/a92d5f30-abfe-4fc9-a7a1-02739f548386" />
+Scatterplot , AQI vs PM2_5: <img width="687" height="389" alt="image" src="https://github.com/user-attachments/assets/2e3354c9-c470-4611-ac78-be11dca49f28" />
+Correlation Hetamap: <img width="995" height="785" alt="image" src="https://github.com/user-attachments/assets/ba83b514-9093-4c4b-ae25-df8cbc96dbeb" />
+PCA visualization: <img width="722" height="401" alt="image" src="https://github.com/user-attachments/assets/679b5c8c-55b2-4534-8359-1bd1f7895d21" />
 
 ## Report Location
 
